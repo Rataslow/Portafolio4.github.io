@@ -1,0 +1,112 @@
+header
+{
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	background-color: #1CC591;
+	width: 100%;
+	height: 10%;
+    box-shadow: 0 1px 1px 0 rgba(0,0,0.4);
+
+}
+
+footer
+{
+
+	position: absolute;
+	left: 0px;
+	top: 555px;
+	background-color: #1CC591;
+	width: 100%;
+	height: 10%;
+	box-shadow: 0 1px 3px 0;
+
+
+}
+.logo
+{
+	position: absolute;
+	top:10px;
+	left: 5px;
+
+}
+
+/** barra de navegacion **/
+
+header ul
+{
+	position: absolute;
+	left: 100px;
+	top: 10px;
+
+}
+
+header a
+{
+
+	position: relative;
+	margin-left: 130px;
+	color: #fff;
+	font-family: "calibri";
+	text-decoration: none;
+	font-size: 15px;
+
+
+}
+
+
+.footext
+{
+	position: absolute;
+	left: 200px;
+	top:10px;
+	font-size: 15px;
+	color: #fff;
+	font-family: "calibri";
+
+}
+
+section
+{
+	position: absolute;
+	top: 110px;
+	left: 200px;
+	width: 370px;
+	text-align: justify; /** justificacion del texto**/
+	font-size: 15px;
+	font-family: "calibri";
+	
+
+
+
+}
+
+aside
+{
+	position: absolute;
+	top: 350px;
+	left: 200px;
+	width: 370px;
+	text-align: justify; /** justificacion del texto**/
+	font-size: 15px;
+	font-family: "calibri";
+
+
+}
+
+.nutricionimg
+{
+	position: absolute;
+	top: 170px;
+	left: 650px;
+	border-radius: 100px;
+	width: 40%;
+	height: 300px;
+}
+h4
+{
+	text-align: justify; /** justificacion del texto**/
+	font-size: 20px;
+	font-family: "calibri";
+
+}
